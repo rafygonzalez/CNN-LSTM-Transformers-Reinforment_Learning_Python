@@ -1,4 +1,4 @@
-# Machine Learning and Data Science
+# Machine Learning and Data Science 🤖
 
 ### Exploring Machine Learning and Data Science Techniques: Image Classification, Deep Learning and Q-Learning, CNNs, Python Libraries, Data Preprocessing, NLP with TensorFlow and Keras 🔍
 
