@@ -1,4 +1,4 @@
-# CNN-LSTM-Transformers-Reinforment_Learning_Python
+# Machine Learning and Data Science
 
 General knowledge
 
