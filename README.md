@@ -1,6 +1,6 @@
 # Machine Learning and Data Science
 
-![ianna](https://i.imgur.com/vlkpuxW.png)
+![ianna](https://i.imgur.com/vlkpuxW.png){:width="200px" height="100px"}
 
 ### Exploring Machine Learning and Data Science Techniques: Image Classification, Deep Learning and Q-Learning, CNNs, Python Libraries, Data Preprocessing, NLP with TensorFlow and Keras
 
