@@ -1,10 +1,8 @@
 # Machine Learning and Data Science
 
-![ianna](https://i.imgur.com/vlkpuxW.png){:width="200px" height="100px"}
+### Exploring Machine Learning and Data Science Techniques: Image Classification, Deep Learning and Q-Learning, CNNs, Python Libraries, Data Preprocessing, NLP with TensorFlow and Keras 🔍
 
-### Exploring Machine Learning and Data Science Techniques: Image Classification, Deep Learning and Q-Learning, CNNs, Python Libraries, Data Preprocessing, NLP with TensorFlow and Keras
-
-This project aims to explore various machine learning and data science techniques, with a focus on image classification, deep learning and reinforcement learning concepts. We will cover convolutional neural networks (CNNs) and their use in image classification, as well as various neural network architectures and training techniques for function approximation. We will also delve into Python programming and relevant libraries such as NumPy, TensorFlow, PyTorch, and Matplotlib, as well as data structures such as deques and named tuples.
+This project aims 🎯 to explore various machine learning and data science techniques, with a focus on image classification, deep learning and reinforcement learning concepts. We will cover convolutional neural networks (CNNs) and their use in image classification, as well as various neural network architectures and training techniques for function approximation. We will also delve into Python programming and relevant libraries such as NumPy, TensorFlow, PyTorch, and Matplotlib, as well as data structures such as deques and named tuples.
 
 In addition, we will explore data preprocessing techniques such as normalization and categorical encoding, and discuss geometry concepts such as Euclidean distance and rectangles. We will also discuss data augmentation and its role in improving the performance of deep learning models, as well as game development concepts such as collision detection and state representation.
 
