@@ -1,5 +1,5 @@
 # Machine Learning and Data Science
-## Exploring Machine Learning and Data Science Techniques: Image Classification with Deep Learning and Q-Learning, CNNs, Python Libraries, Data Preprocessing, and NLP with TensorFlow and Keras
+## Exploring Machine Learning and Data Science Techniques: Image Classification, Deep Learning and Q-Learning, CNNs, Python Libraries, Data Preprocessing, NLP with TensorFlow and Keras
 
 1 - Machine learning concepts, specifically image classification using deep learning and reinforcement learning concepts, specifically Q-learning and action-value function estimation
 
