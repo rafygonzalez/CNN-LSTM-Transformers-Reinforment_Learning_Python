@@ -15,3 +15,13 @@ General knowledge
 6 - Model training and evaluation using TensorFlow's fit_generator and evaluate methods, and plotting and visualization using Matplotlib's subplot and matshow functions, as well as a helper function
 
 7 - Confusion matrix and its use in evaluating the performance of a classification model, as well as K-d trees and nearest neighbor search.
+
+8 - Natural language processing (NLP) concepts and techniques, including text tokenization, vocabulary size, and padding sequences
+
+10 - TensorFlow and its Keras API for building and training machine learning models
+
+11 - Transformer architecture and how it can be used for machine translation tasks
+
+12 - Hyperparameter optimization, including learning rate, number of layers, model size, and number of attention heads
+
+13 - Loss functions, optimizers, and evaluation metrics in TensorFlow, such as Sparse Categorical Crossentropy and Sparse Categorical
