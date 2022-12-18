@@ -1,0 +1,4 @@
+test/
+train/
+model.h5
+.DS_Store
