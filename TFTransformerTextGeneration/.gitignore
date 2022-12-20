@@ -1,0 +1,5 @@
+checkpoints/
+test
+train
+__pycache__
+.DS_Store
